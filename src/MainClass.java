@@ -1,8 +1,9 @@
 public class MainClass {
+
     public static void main(String[] args) {
 
-        duree marc = new duree();
-        duree valentino = new duree();
+        Duree marc = new Duree();
+        Duree valentino = new Duree();
         System.out.println(" temps pour marc");
         marc.afficheDuree();
         System.out.println(" temps pour valentino");
