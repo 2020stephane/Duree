@@ -1,6 +1,6 @@
 import java.util.Formatter;
 
-public class Duree {
+public final class Duree {
 
     private int heure;
     private int minute;
